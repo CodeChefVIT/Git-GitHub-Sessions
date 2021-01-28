@@ -4,7 +4,7 @@
 # Contributors List
 * [Akshat Gupta](https://github.com/akshatvg)
 * [Vishesh Bansal](https://github.com/VisheshBansal)
-
+* [Yilmaas sathick](https://github.com/Yilmaas05)
 <p align="center">
 	With :heart: by <a href="https://www.codechefvit.com" target="_blank">CodeChef-VIT</a>
 </p>
