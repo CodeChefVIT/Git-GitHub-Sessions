@@ -2,7 +2,7 @@
 </p>
 
 # Contributors List
-* [Aman Ali SIDDIQUI](https://github.com/a-ma-n)
+* [Aman Ali Siddiqui](https://github.com/a-ma-n)
 
 
 <p align="center">
