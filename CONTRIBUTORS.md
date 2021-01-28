@@ -3,6 +3,7 @@
 
 # Contributors List
 1. [Akshat Gupta](https://github.com/akshatvg)
+2. [Vishesh Bansal](https://github.com/VisheshBansal)
 
 <p align="center">
 	With :heart: by <a href="https://www.codechefvit.com" target="_blank">CodeChef-VIT</a>
