@@ -5,6 +5,7 @@
 * [Aman Ali Siddiqui](https://github.com/a-ma-n)
 * [Akshat Gupta](https://github.com/akshatvg)
 * [Vishesh Bansal](https://github.com/VisheshBansal)
+* [Mrinal Agarwal](https://github.com/mrinalxagarwal)
 * [Khushi Singhania](https://github.com/KhushiSinghania)
 * [Sahas Vivek](https://github.com/sahas-01)
 * [Rashi Solanki](https://github.com/rashisolanki)
