@@ -5,6 +5,7 @@
 * [Aman Ali Siddiqui](https://github.com/a-ma-n)
 * [Akshat Gupta](https://github.com/akshatvg)
 * [Vishesh Bansal](https://github.com/VisheshBansal)
+* [Sidharth Mishra](https://github.com/SidharthMishra-07)
 * [Yash Srivastava](https://github.com/yashsrivastava17)
 * [Swarup Kharul](https://github.com/SwarupKharul)
 * [Sayan Mandal](https://github.com/ErrCee)
