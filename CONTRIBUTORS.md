@@ -5,6 +5,7 @@
 * [Aman Ali Siddiqui](https://github.com/a-ma-n)
 * [Akshat Gupta](https://github.com/akshatvg)
 * [Vishesh Bansal](https://github.com/VisheshBansal)
+* [Khushang Thakkar](https://github.com/Thakkar-Khushang)
 * [Harish Edison](https://github.com/harish-edison)
 * [Arnish Bhardwaj](https://github.com/Arnish-B)
 * [Sarthak Bharadwaj](https://github.com/Sarthakbh321)
