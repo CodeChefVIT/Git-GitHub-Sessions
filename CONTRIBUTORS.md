@@ -2,6 +2,7 @@
 </p>
 
 # Contributors List
+* [Aman Ali Siddiqui](https://github.com/a-ma-n)
 * [Akshat Gupta](https://github.com/akshatvg)
 * [Vishesh Bansal](https://github.com/VisheshBansal)
 * [Arnish Bhardwaj](https://github.com/Arnish-B)
