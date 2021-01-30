@@ -5,6 +5,7 @@
 * [Aman Ali Siddiqui](https://github.com/a-ma-n)
 * [Akshat Gupta](https://github.com/akshatvg)
 * [Vishesh Bansal](https://github.com/VisheshBansal)
+* [Umang Bhutoria](https://github.com/bhutoriaumang)
 * [Soumil Agarwal](https://github.com/Soumil-Agarwal)
 * [Aditya Deodeshmukh](https://github.com/AdityaDeodeshmukh)
 * [Hrithik Agarwal](https://github.com/Hrithik-3961)
