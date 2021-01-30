@@ -5,6 +5,7 @@
 * [Aman Ali Siddiqui](https://github.com/a-ma-n)
 * [Akshat Gupta](https://github.com/akshatvg)
 * [Vishesh Bansal](https://github.com/VisheshBansal)
+* [Hrithik Agarwal](https://github.com/Hrithik-3961)
 * [Yilmaas sathick](https://github.com/Yilmaas05)
 * [Sidharth Mishra](https://github.com/SidharthMishra-07)
 * [Yash Srivastava](https://github.com/yashsrivastava17)
