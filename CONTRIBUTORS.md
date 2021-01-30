@@ -5,6 +5,8 @@
 * [Akshat Gupta](https://github.com/akshatvg)
 * [Vishesh Bansal](https://github.com/VisheshBansal)
 * [Arka Pramanik](https://github.com/APXD-git)
+* [Charchit Mangal] (https://github.com/charchitmangal)
+
 <p align="center">
 	With :heart: by <a href="https://www.codechefvit.com" target="_blank">CodeChef-VIT</a>
 </p>
