@@ -33,7 +33,7 @@
 * [Sarthak Bharadwaj](https://github.com/Sarthakbh321)
 * [Arka Pramanik](https://github.com/APXD-git)
 * [Charchit Mangal](https://github.com/charchitmangal)
-
+* [Devansh Sehgal](https://github.com/Devansh-ops)
 <p align="center">
 	With :heart: by <a href="https://www.codechefvit.com" target="_blank">CodeChef-VIT</a>
 </p>
